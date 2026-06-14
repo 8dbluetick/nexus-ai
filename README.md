@@ -91,3 +91,8 @@ Contributions welcome! Please open an issue or PR.
 ---
 
 **Built with ❤️ by [8dbluetick](https://github.com/8dbluetick)**
+
+
+## 🚀 Deployment
+
+This app is deployed on Vercel and auto-updates with every commit to main branch.
